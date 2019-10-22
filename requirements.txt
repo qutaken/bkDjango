@@ -20,7 +20,7 @@ iSearch==1.0.0
 matplotlib==2.1.0
 numpy==1.13.3
 olefile==0.44
-Pillow==4.3.0
+Pillow==6.2.0
 psycopg2>=2.6.1
 pygal==1.7.0
 pyparsing==2.2.0
