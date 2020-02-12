@@ -7,7 +7,7 @@ cli50==1.7.0
 cycler==0.10.0
 dj-database-url==0.4.2
 dj-static==0.0.6
-Django==1.8.4
+Django==1.11.28
 dj-datebase-url==0.3.0
 dj-static==0.0.6
 django-ranged-response==0.2.0
